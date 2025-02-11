@@ -52,29 +52,29 @@ You can compile and run your LaTeX resume using different methods besides the co
 1️⃣ Overleaf (Online Method) - Recommended
 Steps:
 
-Go to Overleaf.
-Click on "New Project" > "Upload Project".
-Upload your resume.tex and any other required files.
-Click "Recompile" to generate the PDF.
-Download the compiled resume.pdf.
+1 Go to Overleaf.
+2 Click on "New Project" > "Upload Project".
+3 Upload your resume.tex and any other required files.
+4 Click "Recompile" to generate the PDF.
+5 Download the compiled resume.pdf.
 ✅ No installation required, works on any device with a browser!
 
 2️⃣ TeXworks (Windows)
 Steps:
 
-Install MiKTeX (includes TeXworks).
-Open TeXworks.
-Click "Open" and select resume.tex.
-Click the green "Play" button to compile.
+1 Install MiKTeX (includes TeXworks).
+2 Open TeXworks.
+3 Click "Open" and select resume.tex.
+4 Click the green "Play" button to compile.
 The resume.pdf will be generated in the same folder.
 
 3️⃣ TeXShop (Mac)
 Steps:
 
-Install MacTeX.
-Open TeXShop.
-Load resume.tex and press "Typeset".
-The PDF will be created automatically.
+1 Install MacTeX.
+2 Open TeXShop.
+3 Load resume.tex and press "Typeset".
+4 The PDF will be created automatically.
 
 4️⃣ Visual Studio Code (VS Code)
 Steps:
@@ -88,9 +88,9 @@ PDF will be generated in the same directory.
 5️⃣ TeXStudio (Cross-Platform)
 Steps:
 
-Install TeXLive or MiKTeX.
-Install TeXStudio.
-Open resume.tex and click "Build & View".
+1 Install TeXLive or MiKTeX.
+2 Install TeXStudio.
+3 Open resume.tex and click "Build & View".
 The PDF will be displayed.
 
 6️⃣ Docker (For Advanced Users)
