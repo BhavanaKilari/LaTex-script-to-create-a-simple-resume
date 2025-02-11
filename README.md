@@ -111,15 +111,15 @@ Advanced Users? → Docker.
 
 Features:
 
-# Minimalist and clean LaTeX resume template.
+#Minimalist and clean LaTeX resume template.
 
-# Uses geometry for proper margin spacing.
+#Uses geometry for proper margin spacing.
 
-# Hyperlinks for easy navigation to LinkedIn and GitHub.
+#Hyperlinks for easy navigation to LinkedIn and GitHub.
 
-# Section formatting with titlesec package.
+#Section formatting with titlesec package.
 
-# List-based structured sections for skills, projects, and awards.
+#List-based structured sections for skills, projects, and awards.
 
 ## 🔗 Connect with Me
 📌 **LinkedIn**: [bhavana-kilari](https://www.linkedin.com/in/bhavana-kilari-5537392a2)
